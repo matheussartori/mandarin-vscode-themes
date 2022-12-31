@@ -1,0 +1,38 @@
+{
+  "name": "mandarin-themes",
+  "displayName": "Mandarin Themes",
+  "description": "",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
+  "author": {
+    "name": "Matheus da Silva Sartori",
+    "email": "ms.sartori@outlook.com.br"
+  },
+  "publisher": "matheussartori",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matheussartori/mandarin-vscode-themes"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "scripts": {
+    "build": "npx vsce package"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mandarin Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mandarin Dark Theme-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.16.0"
+  }
+}
