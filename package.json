@@ -2,7 +2,7 @@
   "name": "mandarin-themes",
   "displayName": "Mandarin Themes",
   "description": "",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "icon": "images/icon.png",
   "author": {
     "name": "Matheus da Silva Sartori",
@@ -31,9 +31,9 @@
         "path": "./themes/Mandarin Dark Theme-color-theme.json"
       },
       {
-        "label": "Mandarin Deep Purple Theme",
+        "label": "Mandarin Dark Grape Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mandarin Deep Purple Theme-color-theme.json"
+        "path": "./themes/Mandarin Dark Grape Theme-color-theme.json"
       }
     ]
   },

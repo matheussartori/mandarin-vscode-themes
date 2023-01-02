@@ -16,4 +16,4 @@
 This package contains the following themes:
 
 - Mandarin Dark Theme
-- Mandarin Deep Purple Theme
+- Mandarin Dark Grape Theme
