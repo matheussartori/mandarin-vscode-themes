@@ -17,3 +17,4 @@ This package contains the following themes:
 
 - Mandarin Dark Theme
 - Mandarin Dark Grape Theme
+- Mandarin Dark Health Theme

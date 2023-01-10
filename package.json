@@ -1,8 +1,8 @@
 {
   "name": "mandarin-themes",
   "displayName": "Mandarin Themes",
-  "description": "",
-  "version": "1.0.3",
+  "description": "VSCode Themes based on Mandarin (Publicity Agency) colors.",
+  "version": "1.0.4",
   "icon": "images/icon.png",
   "author": {
     "name": "Matheus da Silva Sartori",
@@ -28,12 +28,17 @@
       {
         "label": "Mandarin Dark Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mandarin Dark Theme-color-theme.json"
+        "path": "./themes/Mandarin Dark-color-theme.json"
       },
       {
         "label": "Mandarin Dark Grape Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mandarin Dark Grape Theme-color-theme.json"
+        "path": "./themes/Mandarin Dark Grape-color-theme.json"
+      },
+      {
+        "label": "Mandarin Dark Health Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mandarin Dark Health-color-theme.json"
       }
     ]
   },
